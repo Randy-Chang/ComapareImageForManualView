@@ -1,0 +1,17 @@
+D:\Github\Randy-Chang\ComapareImageForManualView\bin\Debug\net6.0-windows\ComapareImageForManualView.exe
+D:\Github\Randy-Chang\ComapareImageForManualView\bin\Debug\net6.0-windows\ComapareImageForManualView.deps.json
+D:\Github\Randy-Chang\ComapareImageForManualView\bin\Debug\net6.0-windows\ComapareImageForManualView.runtimeconfig.json
+D:\Github\Randy-Chang\ComapareImageForManualView\bin\Debug\net6.0-windows\ComapareImageForManualView.dll
+D:\Github\Randy-Chang\ComapareImageForManualView\bin\Debug\net6.0-windows\ComapareImageForManualView.pdb
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.csproj.AssemblyReference.cache
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.Form1.resources
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.csproj.GenerateResource.cache
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.AssemblyInfoInputs.cache
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.AssemblyInfo.cs
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.csproj.CoreCompileInputs.cache
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.dll
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\refint\ComapareImageForManualView.dll
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.pdb
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ComapareImageForManualView.genruntimeconfig.cache
+D:\Github\Randy-Chang\ComapareImageForManualView\obj\Debug\net6.0-windows\ref\ComapareImageForManualView.dll
